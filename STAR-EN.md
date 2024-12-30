@@ -1,9 +1,10 @@
-
+<br><br />
+Project Experiences
+<br><br />
 =====================================
 
 # Outline <a name="top"></a>
-
-### [1.0-------- Professional Experience Overview](#section-1-0-star)
+#### [1.0------- Overview](#section-1-0-star)
 #### [1.0.1----- SideProject](#section-1-0-1-star)  
 #### [1.1.1----- HIPOWER - Intelligent Parking Occupancy Monitoring System](#section-1-1-1-star)
 #### [1.1.2----- HIPOWER - Vehicle Anomaly Detection System](#section-1-1-2-star)
@@ -16,27 +17,27 @@
 <br><br />
 <br><br />
 
-<h1 id="section-1-0-star">Professional Experience Overview</h1>
+<h1 id="section-1-0-star">Overview</h1>
 
-Latticework, Inc.
+Latticework, Inc  •  Jul 2023 - Jul 2024
 - Product Backend Optimization and Quality Assurance
 - Continuous Integration and Continuous Deployment (CI/CD) Pipeline Improvement
 - Technical Documentation Management
 
-Advantech Co., Ltd.
+Advantech Co., Ltd.  •  Aug 2021 - Jul 2023
 - [Frontend User Interface Development and Integration](#section-1-4-1-star) 
 - [Backend Software Engineering and System Architecture Optimization](#section-1-4-1-star) 
 
-MDS
+MDS  •  Dec 2020 - Aug 2021
 - [Taipei Metro Wanda Line Communication Protocol Library Development](#section-1-3-1-star) 
 
-FitTech Co., Ltd. 
+FitTech Co., Ltd.  •  May 2017 - Jun  2019 
 - [Automated Optical Performance Testing Equipment - Motion Control System Upgrade](#section-1-2-1-star)
 - [Automated Optical Performance Testing Equipment - Imaging Sensor (CCD) Replacement](#section-1-2-2-star)
 - [System Architecture Modernization](#section-1-2-3-star)
 - Onboarding and Technical Training Program
 
-HIPOWER (HIPOWER)
+HIPOWER    •   Mar 2015 - Mar 2017
 - [Vehicle Anomaly Detection via Image Recognition](#section-1-1-2-star)
 - [Intelligent Parking Occupancy Monitoring System](#section-1-1-1-star)
 - Integrated Hardware and Software Solution Development
@@ -48,9 +49,7 @@ HIPOWER (HIPOWER)
 
 ---
 
-Detailed Project Experiences
-
-<h3 id="section-1-4-1-star">ADVANTECH - Web-based Integrated Management Interface</h3>
+<h2 id="section-1-4-1-star">ADVANTECH - Web-based Integrated Management Interface</h2>
 
 ADVANTECH - Web-based Integrated Management Interface
 - Situation: Inherit complex web application without prior documentation
@@ -75,7 +74,7 @@ ADVANTECH - Web-based Integrated Management Interface
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h3 id="section-1-3-1-star">MDS - Metro Communication Protocol Library</h3>
+<h2 id="section-1-3-1-star">MDS - Metro Communication Protocol Library</h2>
 
 MDS - Metro Communication Protocol Library
 - Situation: Develop robust communication protocol for metro station systems
@@ -93,7 +92,7 @@ MDS - Metro Communication Protocol Library
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h3 id="section-1-2-1-star">Fittech - Precision Motion Control System Upgrade</h3>
+<h2 id="section-1-2-1-star">Fittech - Precision Motion Control System Upgrade</h2>
 
 Fittech - Precision Motion Control System Upgrade
 - Situation: Critical system upgrade requiring micron-level precision without disrupting existing system architecture
@@ -110,7 +109,7 @@ Fittech - Precision Motion Control System Upgrade
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h3 id="section-1-2-2-star">Fittech - Imaging Sensor (CCD) Optimization Project</h3>
+<h2 id="section-1-2-2-star">Fittech - Imaging Sensor (CCD) Optimization Project</h2>
 
 Fittech - Imaging Sensor (CCD) Optimization Project
 - Situation: Current CCD costs are prohibitively high, finding a cost-effective alternative solution
@@ -127,7 +126,7 @@ Fittech - Imaging Sensor (CCD) Optimization Project
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h3 id="section-1-2-3-star">Fittech - System Architecture Performance Optimization</h3>
+<h2 id="section-1-2-3-star">Fittech - System Architecture Performance Optimization</h2>
 
 Fittech - System Architecture Performance Optimization
 - Situation: Material shortage with difficult alternative material integration, lack of manufacturer support threatening production line continuity
@@ -144,7 +143,7 @@ Fittech - System Architecture Performance Optimization
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h3 id="section-1-1-2-star">HIPOWER - Vehicle Anomaly Detection System</h3>
+<h2 id="section-1-1-2-star">HIPOWER - Vehicle Anomaly Detection System</h2>
 
 HIPOWER - Vehicle Anomaly Detection System
 - Situation: Develop an integrated solution for detecting reverse traffic flow at highway interchanges, addressing vendor collaboration challenges and system integration complexities.
@@ -168,7 +167,7 @@ HIPOWER - Vehicle Anomaly Detection System
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h3 id="section-1-1-1-star">HIPOWER - Intelligent Parking Occupancy Monitoring System</h3>
+<h2 id="section-1-1-1-star">HIPOWER - Intelligent Parking Occupancy Monitoring System</h2>
 
 HIPOWER - Intelligent Parking Occupancy Monitoring System
 - Situation: Address real-time parking availability challenges at high-traffic highway rest stops
