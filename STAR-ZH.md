@@ -55,7 +55,11 @@
 
 <h2 id="section-1-4-1-star">研華科技公司 - 產品圖形使用者介面</h2>
 
-[研華科技公司 - 攝影機影像串流以及使用者介面]
+研華科技公司 - 攝影機影像串流以及使用者介面
+
+Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium, E2ETesting, C#, OOP, SOLID, nginx, docker, docker-compose, jenkins, ffmpeg, rtsp, http-flv, https, openSSL, UML, Workflow, Sequence, WBS, OKR, AON, Milestone, swagger, openapi, postman, mongodb, redis 
+
+團隊人數共4人:2驅動;1韌體;1網頁,  負責範疇如下
 
 - 情況S：  
   - 接手外包開發的相機GUI外，需將即時影像串流由韌體層拉至介面並且完成其他功能
@@ -74,7 +78,7 @@
     - (Coffee Chat)     : 平時透過與業界友人約吃飯，請教技術與解決方案，得知相關技術後自學。  
     - (WBS / OKR / ANO) : 劃分團隊分工WBS，OKR遠中近目標，執行順序AON，里程碑。  
     - (UML /Workflow/Sequence) : 將模糊需求轉化為具體設計。  
-    - (WireFlow/UIFlow) : 用於UI/UX，於跨部門溝通中模擬用戶情境。  
+    - (Wireframe/UIFlow) : 用於UI/UX，於跨部門溝通中模擬用戶情境。  
     - (API Doc/Swagger) : 將依照SOLID原則，將功能切細後，制定名稱 功能 引數 回傳撰寫為文件
 
   - 優化系統基礎架構：  
@@ -82,13 +86,13 @@
     - (Docker)          : 使用Docker取代原本的Systemd，並打包VideoStream的轉碼服務
     - (ErrorHandle/FW Layer) : 根據過往經歷，導入ErrorHandle回報各層錯誤代碼與對應資訊    
     - (VideoStream)     : 自家IPCam拉RTSP 用FFmpeg HttpFlv 建立直播架構，用VLC POC完成後提案。
-    - (E2E)             : 使用Pytest & selenium製作能以網頁為物件的自動化測試腳本框架
+    - (E2E)             : 使用Pytest & selenium 製作能以網頁為物件的自動化測試腳本框架
 
 - 結果R：  
   - 各自行動(Action)成效如下:
     - (Coffee Chat)     : 避免使用過時不敷使用的技術，且大幅取得須掌握標的。
     - (WBS / OKR / ANO) : 腦內風暴，規劃，排程，也有利於成員理解當前目標與後續規劃，能自主對當前工作進行調整與建議。
-    - (UML/WireFlow .. etx): 於正式進入開發前，由設計維度對焦需求並達成共識，直接避免成品與需求脫鉤的風險。
+    - (UML/Wireframe .. etx): 於正式進入開發前，由設計維度對焦需求並達成共識，直接避免成品與需求脫鉤的風險。
     - (代碼生成器)       : 自動化Coding將開發時間比例降為 規劃7:驗證2:撰寫1 避免手動撰寫造成的錯誤 開發效率相較外包提升至少750%     
     - (VideoStream)     : 憑藉過去對影像串流的經驗，快速隊需求提出(RTSP/RTP/HttpFLV)解決方案，團隊最後選擇使用HttpFlV 
     - (Docker/compose)  : 容器化的環境一致性，壓低了BUG發生頻率，同時降低直播架構於各平台交叉測試的時間與難度，提升了微服務間的健強性
@@ -103,6 +107,11 @@
 <h2 id="section-1-3-1-star">三商電腦公司 - 台北捷運萬大線車站軟韌體 </h2>
 
 三商電腦公司 - 台北捷運萬大線車站軟韌體
+
+C++, C#, Winform, FP, SOLID, Singleton
+
+團隊人數共7人, 專案人數2人, 管理1人,  負責範疇如下
+
 - S：站內閘門、自動售票機、人員操作軟體與中央電腦傳輸的系統開發
 - T：開發台北捷運規範的通訊電文編解譯函式庫，同時負責GATE、CCBE、UPS整開發串接，因重複性高此處僅說明電文部分
 - A：  
@@ -125,6 +134,11 @@
 <h2 id="section-1-2-1-star">惠特科技公司 - Probe - Motion 3-Axis system 升級案</h2>
 
 惠特科技公司 - Probe - Motion 3-Axis system 升級案
+
+C++, C#, Winform, Multi-Thread, State Pattern
+
+團隊人數共5人, 專案人數1人,  負責範疇如下
+
 - S：Legacy Code無文件與交接，更換old Motion system，並進行效能上提升
 - T：Project Owner，獨自進行，新舊軟體整合，針痕速度提升至符合商用
 - A：
@@ -152,6 +166,11 @@
 <h2 id="section-1-2-2-star">惠特科技公司 - Probe - Vision CCD </h2>
 
 惠特科技公司 - Probe - Vision CCD
+
+C++, C#, Winform, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC, videostream
+
+團隊人數共5人, 專案人數1人, 後期管理人數2人,  負責範疇如下
+
 - S：現行CCD取得成本高，尋找替代方案。  
 - T：評測各牌CCD，並進行AOI流程整合，同樣Legacy Code。  
 - A：
@@ -162,7 +181,6 @@
    - 與Hikon台灣區總監見面，協商建立台灣區倉庫安全庫存
    - 類別物件化Vision程式碼，並撰寫與主架構雷同的DemoCode與文件
    - 同時間安排教育訓練，使新人Handle CCD代碼
-
 - R：  
    - 導入新品牌，降低65%取得成本
    - 使原廠承諾
@@ -179,6 +197,11 @@
 <h2 id="section-1-2-3-star">惠特科技公司 - Probe - source meter 主從架構優化案</h2>
 
 惠特科技公司 - Probe - source meter 主從架構優化案
+
+C++, C#, Winform, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC
+
+團隊人數共5人, 專案人數1人, 負責範疇如下
+
 - S：keithley關鍵原料斷料，替代料NI相容性問題，原廠拒絕支援長達半年，庫存產能僅剩一個月。  
 - T：非主管指派，主動提出解決方案並主導專案
 - A：
@@ -203,6 +226,11 @@
 <h2 id="section-1-1-2-star">綠節能智控公司 - 政府標案 - 影像辨識車輛逆行</h2>
 
 綠節能智控公司 - 政府標案 - 影像辨識車輛逆行
+
+C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC
+
+團隊人數共6人, 專案人數4人, 負責範疇如下
+
 - S：政府標案，使用搭載Embedded Windows的設備，透過影片辨識及地面線圈訊號，偵測車輛逆行事件，並回報至高公局系統
 - T：
   - 獨自負責以下開發內容
@@ -239,6 +267,11 @@
 <h2 id="section-1-1-1-star">綠節能智控公司 - 蘇州休息站</h2>
 
 綠節能智控公司 - 蘇州休息站
+
+C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC
+
+團隊人數共6人, 專案人數4人, 負責範疇如下
+
 - S：高速公路休息站停車場的中控中心專案
 - T：我負責開發供人員操作軟體，接收計數模組回傳資訊並進行統計，依照設定將當前/剩餘車位顯示於LED看板上;以及負責安控室的CCTV輪播電視牆;以及開發串流轉發服務
 - A： 
