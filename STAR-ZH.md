@@ -43,6 +43,7 @@ CV - STAR - 專案經驗 (詳細版)
 綠節能智控公司(HIPOWER) Mar 2015 - Mar 2017
 
 - [政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
+  - 刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ](https://www.freeway.gov.tw/Upload/Html/2017410162/page07.html)
 - [蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
 - [人流偵測管理系統(PFD)](#section-1-1-3-star)
 
