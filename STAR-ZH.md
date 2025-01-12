@@ -93,6 +93,7 @@ Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium,
     - (Microservice)    : 降低各平台交叉測試的時間與難度，提升了系統健強性，以及
     - (ErrorHandle/FW Layer): 壓低了BUG發生頻率，平均降低故障排除時間60%
     - (E2E POM Framework): 降低測試腳本維護難度，迭代中，快速察覺問題與。
+      - [git](https://github.com/YiFan0221/E2E-POM) https://github.com/YiFan0221/E2E-POM
   - 無經驗下，如期提早完成外，並於規劃的緩衝時間內處理兩次設計變更，準時交付，期間成員無需加班，甚至期間善用空檔出遊。
 
 <br><br />
