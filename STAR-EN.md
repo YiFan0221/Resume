@@ -68,7 +68,7 @@ ADVANTECH - Web-based Integrated Management Interface
    - E2ETesting minimized feature regression risks
    - Improved development team communication efficiency with AE and PM
    - Accelerated development cycles and reduced development time
-   - Achieved approximately 750% productivity improvement
+   - Achieved approximately 92.86%% productivity improvement (People:2->1, 2Week->2Day)
 
 <br><br />
 [Back Top](#section-1-0-star)
