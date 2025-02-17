@@ -10,8 +10,8 @@
 #### [1.1.1----- 綠節能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
 #### [1.1.2----- 綠節能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
 #### [1.1.3----- 綠節能智控公司 - 人流偵測管理系統(PFD)](#section-1-1-3-star)
-#### [1.2.1----- 惠特科技公司 - Probe - Motion 3-Axis system 更換案](#section-1-2-1-star)  
-#### [1.2.2----- 惠特科技公司 - Probe - Vision CCD](#section-1-2-2-star)  
+#### [1.2.1----- 惠特科技公司 - Probe - Motion 3-Axis system 升級案](#section-1-2-1-star)  
+#### [1.2.2----- 惠特科技公司 - Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)  
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 #### [1.3.1----- 三商電腦公司 - 台北捷運萬大線車站軟韌體](#section-1-3-1-star)  
 #### [1.4.1----- 研華科技公司 - 邊緣設備智慧攝影機 - 使用者介面與串流串接 ](#section-1-4-1-star)   
@@ -36,15 +36,16 @@
 
 惠特科技公司(Fittech)  •  May 2017 - Jun  2019 
 
-- [Probe - Motion 3-Axis system 更換案](#section-1-2-1-star)
-- [Probe - Vision CCD](#section-1-2-2-star)
+- [Probe - Motion 3-Axis system 升級案](#section-1-2-1-star)
+- [Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)
 - [Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 - 新人訓練
 
 綠節能智控公司(HIPOWER) Mar 2015 - Mar 2017
 
 - [政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
-  - 刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ](https://www.freeway.gov.tw/Upload/Html/2017410162/page07.html)
+  - 刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ]
+  - <https://www.freeway.gov.tw/Upload/Html/2017410162/page07>
 - [蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
 - [人流偵測管理系統(PFD)](#section-1-1-3-star)
 
@@ -58,7 +59,7 @@
 
 工作職掌: WebSite SA & SD & FullStack
 
-使用Skill - Linux, 前端React, 後端Python Flask swagger, Security:JWT SSL, Code產生器 C#, CI/CD:Jenkins git Docker Nginx microservice AWS, DB:SQLite Redies influxdb, SQA:E2E POM Pytest selenium, Streaming: RTSP RTMP FFmpeg http-flv
+Skill - Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium, E2ETesting, C#, OOP, SOLID, nginx, docker, docker-compose, jenkins, ffmpeg, rtsp, http-flv, https, openSSL, UML, Workflow, Sequence, WBS, OKR, AON, Milestone, swagger, openapi, postman, mongodb, redis 
 
 主要成果:
    - 網頁操作介面控制相機中，權限管控，影像設定，模型套用化，影像預覽功能
@@ -80,7 +81,7 @@
 
 工作職掌: SD/SW 管理一人，同時負責其他GATE、CCBE、UPS整合因與過往重複性高，此處僅說明電文部分
 
-使用Skill - C++, C#, Winform, FP, SOLID, Singleton
+Skill - C++, C#, Winform, FP, SOLID, Singleton
 
 主要成果:
  - 實現台北捷運規範的通訊電文編解譯函式庫，之後應用於該專案內所有設備彼此溝通的底層邏輯使用
@@ -98,13 +99,14 @@
 
 工作職掌: 1人兼Owner
 
-使用Skill - C++, C#, Winform, State Pattern, Win32 API, IPC, Vision, Motion, Bode plot
+Skill - C++, C#, Winform, Multi-Thread, State Pattern, Vision, MIL, Bode plot
 
 主要成果:
    - 重啟前人停擺兩年的專案進入試量產
    - 達成 可控精度為0.1微米, dut sizem約30條, motion cycle time為16ms
 
 特色:
+   - 結合影像視覺/電控/軸控，達成全片自動測試 
    - 職掌軟體外, 能發揮跨領域溝通整合, 解決機構/EE/物理問題, 達成商業價值
    - 每片藍膜可上下料後調整針位數次，在每個dut上的每個pad精準戳滿6個一抹淺淺不戳破薄膜的針痕
 
@@ -112,13 +114,13 @@
 <br><br />
 
 
-<h2 id="section-1-2-2-star">惠特科技公司 - Probe - Vision CCD </h2>
+<h2 id="section-1-2-2-star">惠特科技公司 - Probe - Vision CCD 工業相機選品導入</h2>
 
-惠特科技公司 - Probe - Vision CCD
+惠特科技公司 - Probe - Vision CCD 工業相機選品導入
 
 工作職掌: 1人兼Owner
 
-使用Skill - C++, C#, Winform, State Pattern, Memory-mapped file, Win32 API, IPC, Vision, Mil, AOI, videostream
+Skill - C++, C#, vision, 3A, Sharpness, Winform, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC, videostream
 
 主要成果:
    - 降低採購成本 65%
@@ -139,7 +141,7 @@
 
 工作職掌: 1人兼Owner
 
-使用Skill - C++, C#, Winform, memory management, State Pattern, Memory-mapped file, Win32 API, IPC, AOI, videostream
+Skill - C++, C#, Winform, memory management, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC
 
 主要成果:
   - 主動提出解決方案並解決問題，僅費2週解決長達6個月的問題, 並解決生產線停線危機
@@ -157,11 +159,10 @@
 
 工作職掌: SW/FW RD 
 
-使用Skill - C++, BCB6, Embedded Windows, Winform, Linux, Win32 API, IPC, Serial port(COM), I2C, UART, SPI, FFmpeg, RTSP, MySQL
+Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC
 
-刊登頁面: [國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ](https://www.freeway.gov.tw/Upload/Html/2017410162/page07.html)
-
-https://www.freeway.gov.tw/Upload/Html/2017410162/page07.html
+刊登頁面: [國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ]
+<https://www.freeway.gov.tw/Upload/Html/2017410162/page07>
 
 主要成果:
   - 經報導指出: 其準確率為97.5%，誤報率為0%(共計順向72103車次無誤報情形)
@@ -180,7 +181,7 @@ https://www.freeway.gov.tw/Upload/Html/2017410162/page07.html
 
 工作職掌: SW/FW RD 
 
-使用Skill - C++, Winform, FFmpeg, Live555, RTSP, MySQL
+Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC, RWD, Multi-Image Processing
 
 主要成果:
   - 主從架構與IPC，實現出錯快速復歸提升穩定性與容錯度，滿足需置於戶外24小時不間斷運作需求
@@ -199,7 +200,7 @@ https://www.freeway.gov.tw/Upload/Html/2017410162/page07.html
 
 工作職掌: SW/FW RD
 
-使用Skill - C++, Winform, FFmpeg, Live555, RTSP, MySQL, RWD
+Skill - C++, Winform, FFmpeg, Live555, RTSP, MySQL, RWD, Multi-Image Processing
 
 產品頁面: [人流偵測管理系統(PFD) (連結內為今產品, 任職當時未有AI與網頁式)](https://www.hipower-tech.com/Pro_PFD.php)
 

@@ -10,8 +10,8 @@ CV - STAR - 專案經驗 (詳細版)
 #### [1.1.1----- 綠節能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
 #### [1.1.2----- 綠節能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
 #### [1.1.3----- 綠節能智控公司 - 人流偵測管理系統(PFD](#section-1-1-3-star)
-#### [1.2.1----- 惠特科技公司 - Probe - Motion 3-Axis system 更換案](#section-1-2-1-star)  
-#### [1.2.2----- 惠特科技公司 - Probe - Vision CCD](#section-1-2-2-star)  
+#### [1.2.1----- 惠特科技公司 - Probe - Motion 3-Axis system 升級案](#section-1-2-1-star)  
+#### [1.2.2----- 惠特科技公司 - Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)  
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 #### [1.3.1----- 三商電腦公司 - 台北捷運萬大線車站軟韌體](#section-1-3-1-star)  
 #### [1.4.1----- 研華科技公司 - 邊緣設備智慧攝影機 - 使用者介面與串流串接 ](#section-1-4-1-star)  
@@ -35,15 +35,16 @@ CV - STAR - 專案經驗 (詳細版)
 
 惠特科技公司(Fittech)  •  May 2017 - Jun  2019 
 
-- [Probe - Motion 3-Axis system 更換案](#section-1-2-1-star)
-- [Probe - Vision CCD](#section-1-2-2-star)
+- [Probe - Motion 3-Axis system 升級案](#section-1-2-1-star)
+- [Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)
 - [Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 - 新人訓練
 
 綠節能智控公司(HIPOWER) Mar 2015 - Mar 2017
 
 - [政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
-  - 刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ](https://www.freeway.gov.tw/Upload/Html/2017410162/page07.html)
+  - 刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ]
+  - <https://www.freeway.gov.tw/Upload/Html/2017410162/page07>
 - [蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
 - [人流偵測管理系統(PFD)](#section-1-1-3-star)
 
@@ -55,7 +56,7 @@ CV - STAR - 專案經驗 (詳細版)
 
 研華科技公司 - 邊緣設備智慧攝影機 - 使用者介面與串流串接 
 
-Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium, E2ETesting, C#, OOP, SOLID, nginx, docker, docker-compose, jenkins, ffmpeg, rtsp, http-flv, https, openSSL, UML, Workflow, Sequence, WBS, OKR, AON, Milestone, swagger, openapi, postman, mongodb, redis 
+Skill - Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium, E2ETesting, C#, OOP, SOLID, nginx, docker, docker-compose, jenkins, ffmpeg, rtsp, http-flv, https, openSSL, UML, Workflow, Sequence, WBS, OKR, AON, Milestone, swagger, openapi, postman, mongodb, redis 
 
 團隊人數共4人:1網頁(我),2驅動;1韌體;,  負責範疇如下
 
@@ -105,7 +106,7 @@ Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium,
 
 三商電腦公司 - 台北捷運萬大線車站軟韌體
 
-C++, C#, Winform, FP, SOLID, Singleton
+Skill - C++, C#, Winform, FP, SOLID, Singleton
 
 團隊人數共7人, 專案人數2人, 管理1人,  負責範疇如下
 
@@ -131,7 +132,7 @@ C++, C#, Winform, FP, SOLID, Singleton
 
 惠特科技公司 - Probe - Motion 3-Axis system 升級案
 
-C++, C#, Winform, Multi-Thread, State Pattern
+Skill - C++, C#, Winform, Multi-Thread, State Pattern, Vision, MIL, Bode plot
 
 專案人數1人 並為產品負責人
 
@@ -139,8 +140,9 @@ C++, C#, Winform, Multi-Thread, State Pattern
 - T：Project Owner，獨自進行，整合新舊軟體，提升針痕速度至符合商用標準
 - A：
    - 觀察state Pattern Log 製作 State Graph
+   - 影像處理目標特徵追蹤
    - 採非對稱s curve，極速出發輕柔到達
-   - 預測演算法，因藍膜上並非平整，能藉當前dut高度，預測下顆高度 ※PS: dut/die/chip
+   - 預測演算法，因藍膜上並非平整，能藉當前dut高度，預測下顆高度 ※dut/die/chip
    - 與外籍工程師協作修改客製化SDK
    - 波得圖確保剛性
    - 引出驅動卡input Pin借高解析度CLK紀錄訊號使用
@@ -156,11 +158,11 @@ C++, C#, Winform, Multi-Thread, State Pattern
 <br><br />
 
 
-<h2 id="section-1-2-2-star">惠特科技公司 - Probe - Vision CCD </h2>
+<h2 id="section-1-2-2-star">惠特科技公司 - Probe - Vision CCD 工業相機選品導入</h2>
 
-惠特科技公司 - Probe - Vision CCD
+惠特科技公司 - Probe - Vision CCD 工業相機選品導入 
 
-C++, C#, Winform, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC, videostream
+Skill - C++, C#, vision, 3A, Sharpness, Winform, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC, videostream
 
 團隊人數共5人, 專案人數1人, 後期管理人數2人,  負責範疇如下
 
@@ -189,7 +191,7 @@ C++, C#, Winform, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file
 
 惠特科技公司 - Probe - source meter 主從架構優化案
 
-C++, C#, Winform, memory management, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC
+Skill - C++, C#, Winform, memory management, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC
 
 團隊人數共5人, 專案人數1人, 負責範疇如下
 
@@ -217,11 +219,12 @@ C++, C#, Winform, memory management, Multi-Process, Multi-Thread, State Pattern,
 
 綠節能智控公司 - 政府標案 - 影像辨識車輛逆行
 
-C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC
+Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC
 
 團隊人數共6人, 專案人數4人, 負責範疇如下
 
-刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ](https://www.freeway.gov.tw/Upload/Html/2017410162/page07.html)
+刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ]
+<https://www.freeway.gov.tw/Upload/Html/2017410162/page07>
 
 - S：政府標案，使用搭載Embedded Windows的設備，透過影像及線圈訊號，偵測逆行回報至系統
 - T：
@@ -234,6 +237,7 @@ C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Con
   - Vision
     - 多Channel IPCam，RTSP接收VideoStreaming，採用Memory-mapped file取得畫面
     - RGB-Matrix Downsampling(Uniform Sampling), Grayscale Conversion(Weighted Average Method) and Binarization(Global Thresholding)
+    - Multi-Image Processing
   - Task Scheduling
     - Producer-Consumer Pattern
     - Event-Driven Architecture
@@ -259,7 +263,7 @@ C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Con
 
 綠節能智控公司 - 蘇州休息站 - 車輛容量管理
 
-C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC
+Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC, RWD, Multi-Image Processing
 
 團隊人數共6人, 專案人數4人, 負責範疇如下
 
@@ -286,7 +290,7 @@ C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Con
 
 工作職掌: SW/FW RD
 
-使用Skill - C++, Winform, FFmpeg, Live555, RTSP, MySQL, RWD
+Skill - C++, Winform, FFmpeg, Live555, RTSP, MySQL, RWD, Multi-Image Processing
 
 產品頁面: [人流偵測管理系統(PFD) (連結內為今產品, 任職當時未有AI與網頁式)](https://www.hipower-tech.com/Pro_PFD.php)
 

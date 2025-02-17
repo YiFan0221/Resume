@@ -10,7 +10,7 @@ CV - STAR - 專案經驗 (人資版)
 #### [1.1.1----- 綠節能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
 #### [1.1.2----- 綠節能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
 #### [1.2.1----- 惠特科技公司 - Probe - Motion 3-Axis system 更換案](#section-1-2-1-star)  
-#### [1.2.2----- 惠特科技公司 - Probe - Vision CCD](#section-1-2-2-star)  
+#### [1.2.2----- 惠特科技公司 - Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)  
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 #### [1.3.1----- 三商電腦公司 - 台北捷運萬大線車站軟韌體](#section-1-3-1-star)  
 #### [1.4.1----- 研華科技公司 - 產品圖形使用者介面](#section-1-4-1-star)   
@@ -37,14 +37,13 @@ CV - STAR - 專案經驗 (人資版)
 惠特科技公司(Fittech)  •  May 2017 - Jun  2019 
 
 - [Probe - Motion 3-Axis system 更換案](#section-1-2-1-star)
-- [Probe - Vision CCD](#section-1-2-2-star)
+- [Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)
 - [Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 - 新人訓練
 
 綠節能智控公司(HIPOWER) Mar 2015 - Mar 2017
 
 - [政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
-  - 刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ](https://www.freeway.gov.tw/Upload/Html/2017410162/page07.html)
 - [蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
 - 多項硬體與軟體結合系統開發
 
@@ -85,6 +84,8 @@ CV - STAR - 專案經驗 (人資版)
         - 代碼生成器減少手動工作量，整體開發效率提升 開發效率相較外包提升90.48%   
         - 最終在一個月內順利完成專案交付，超過預期目標。
 
+Skill - Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium, E2ETesting, C#, OOP, SOLID, nginx, docker, docker-compose, jenkins, ffmpeg, rtsp, http-flv, https, openSSL, UML, Workflow, Sequence, WBS, OKR, AON, Milestone, swagger, openapi, postman, mongodb, redis 
+
 <br><br />
 [Back Top](#section-1-0-star)
 <br><br />
@@ -101,6 +102,8 @@ CV - STAR - 專案經驗 (人資版)
 - R：  
    - 成果優於預期，高可靠度與可移植性使的廣泛應用於各設備中
 
+Skill - C++, C#, Winform, FP, SOLID, Singleton
+
 <br><br />
 [Back Top](#section-1-0-star)
 <br><br />
@@ -111,19 +114,21 @@ CV - STAR - 專案經驗 (人資版)
 - S：更換舊有架構軸控系統，確保微米等級針痕品質不受影響，需重新啟動。  
 - T：獨立執行專案，控制並調校硬體設備，確保針痕品質，並提升速度與控制精度。  
 - A：  
-   - 除了軟體開發以及實驗外，學習並跨部門協調尋求資源解決問題(如學習博得圖證明剛性不足要求機構修改)  
+   - 除了影像分析與軸控儀器控制的軟體開發，數據實驗分析，並跨部門尋求軟體以外資源解決問題(如機構、EE，學習博得圖證明剛性不足要求機構修改)  
    - 與荷蘭籍原廠工程師協作客製SDK
 - R：  
    - 成功驅動停擺兩年的專案進入試量產，顯著提升設備精度與速度，縮短30%的作業時間，控制精度達0.1微米。
+
+Skill - C++, C#, Winform, Multi-Thread, State Pattern, Vision, MIL, Bode plot
 
 <br><br />
 [Back Top](#section-1-0-star)
 <br><br />
 
 
-<h3 id="section-1-2-2-star">惠特科技公司 - Probe - Vision CCD</h3>
+<h3 id="section-1-2-2-star">惠特科技公司 - Probe - Vision CCD 工業相機選品導入</h3>
 
-惠特科技公司 - Probe - Vision CCD
+惠特科技公司 - Probe - Vision CCD 工業相機選品導入
 - S：現行CCD成本過高，須尋找便宜替代方案。  
 - T：審視各家CCD成像品質、穩定性及開發難易度。  
 - A：  
@@ -133,6 +138,8 @@ CV - STAR - 專案經驗 (人資版)
 - R：  
    - 導入新品牌，降低成本至少65%，並將下訂到收貨時間縮短至2週  
    - 新人於兩週內快速上手新代碼
+
+Skill - C++, C#, vision, 3A, Sharpness, Winform, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC, videostream
 
 <br><br />
 [Back Top](#section-1-0-star)
@@ -151,6 +158,8 @@ CV - STAR - 專案經驗 (人資版)
    - 證明原廠問題成功獲取原廠派遣工程師支援
    - 同步完成解決方案POC，提前解決生產危機
 
+Skill - C++, C#, Winform, memory management, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC
+
 <br><br />
 [Back Top](#section-1-0-star)
 <br><br />
@@ -166,6 +175,8 @@ CV - STAR - 專案經驗 (人資版)
 - R：  
    - 化解政治帶來的影響，由消極轉變為信任與支持，完成專案。  
    - 提升系統健強度及相容性，致使所有開發項目皆能疊代至下個專案使用  
+
+Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC
 
 <br><br />
 [Back Top](#section-1-0-star)
@@ -184,6 +195,8 @@ CV - STAR - 專案經驗 (人資版)
 - R：  
    - 提升系統健強度及相容性，致使所有開發項目皆能疊代至下個專案使用  
    - SOP降低遠端部署難度，成功部署於二十幾個站點  
+
+Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC, RWD, Multi-Image Processing
 
 <br><br />
 [Back Top](#section-1-0-star)
