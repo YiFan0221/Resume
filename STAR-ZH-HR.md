@@ -6,9 +6,12 @@ CV - STAR - 專案經驗 (人資版)
 # 大綱 <a name="top"></a>
 
 #### [1.0------- 概述<依公司>](#section-1-0-star)
+#### [1.0.0----- 出社會前 - 溫濕度感測器2015.9.24網路_RTC_遙控器_繼電器](#section-1-0-0-star)  
 #### [1.0.1----- SideProject](#section-1-0-1-star)  
 #### [1.1.1----- 綠節能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
 #### [1.1.2----- 綠節能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
+#### [1.1.3----- 綠節能智控公司 - 人流偵測管理系統(PFD](#section-1-1-3-star)
+#### [1.1.4----- 綠節能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點](#section-1-1-4-star)
 #### [1.2.1----- 惠特科技公司 - Probe - Motion 3-Axis system 更換案](#section-1-2-1-star)  
 #### [1.2.2----- 惠特科技公司 - Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)  
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
@@ -45,7 +48,12 @@ CV - STAR - 專案經驗 (人資版)
 
 - [政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
 - [蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
-- 多項硬體與軟體結合系統開發
+- [人流偵測管理系統(PFD)](#section-1-1-3-star)
+- [人流偵測管理系統(PFD) - 嵌入式中繼節點](#section-1-1-4-star)
+
+出社會前
+
+- [溫濕度感測器2015.9.24網路_RTC_遙控器_繼電器](#section-1-0-0-star)
 
 <br><br />
 [Back Top](#top)
@@ -202,6 +210,71 @@ Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Prod
 [Back Top](#section-1-0-star)
 <br><br />
 
+<h2 id="section-1-1-3-star">綠節能智控公司 - 人流偵測管理系統(PFD) </h2>
+
+綠節能智控公司 - 人流偵測管理系統(PFD)
+
+工作職掌: SW/FW RD
+
+Skill - C++, Winform, FFmpeg, Live555, RTSP, MySQL, RWD, Multi-Image Processing
+
+產品頁面: [人流偵測管理系統(PFD) (連結內為今產品, 任職當時未有AI與網頁式)](https://www.hipower-tech.com/Pro_PFD.php)
+
+主要成果:
+  - 應用於南港展覽館
+
+特色:
+  - 適用多出入口空間環境以及分區管理人員偵測統計分析應用。
+  - 若人流累積達到閥值時系統將會提醒管制中心人員以及透過顯示屏幕顯示警示數值和狀態提示管理人員進行人員總量管控機制。
+  - 針對偵測事件觸發可以自動整合連動攝影機進行記錄照片或影像／事件名稱／時間／地點，並供調閱查詢事件前後歷史資料與匯出管理功能。
+
+<br><br />
+[Back Top](#section-1-0-star)
+<br><br />
+
+
+<h2 id="section-1-1-4-star"> 綠節能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點 </h2>
+
+綠節能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點
+
+工作職掌: SW/FW RD
+
+Skill - C/C++ 、 RPI 、 MediaTek Linkit smart 7688 
+
+產品頁面: [人流偵測管理系統(PFD) (連結內為今產品, 任職當時未有AI與網頁式)](https://www.hipower-tech.com/Pro_PFD.php)
+
+主要成果:
+  - 將感測器資訊回傳至視覺辨識架構中，應用於南港展覽館
+
+特色:
+  - 採用嵌入式系統節省部屬難度與採購成本(RPI->7688)
+
+<br><br />
+[Back Top](#section-1-0-star)
+<br><br />
+
+  
+<h2 id="section-1-0-0-star">出社會前 - 溫濕度感測器2015.9.24網路_RTC_遙控器_繼電器 </h2>
+
+出社會前 - 溫濕度感測器2015.9.24網路_RTC_遙控器_繼電器
+
+Skill - C/C++ Arduino、8051
+
+主要成果:
+  - 具備紅外線控制收發		
+  - RTC紀錄事件時間於Log (DS1307RTC/I2C)
+  - 溫濕度計數值		(dht11)
+  - 簡易型Webserver 	(W5100/SPI)
+  - 自製繼電器模組控制AC
+
+特色:
+  - 洞洞板自製繼電器模組
+  - 定時將溫溼度與開關事件紀錄並更新於簡易網頁中
+  - IR串聯/開關主從節點實現拓樸
+
+<br><br />
+[Back Top](#section-1-0-star)
+<br><br />
 
 <h3 id="section-1-0-1-star">SideProject</h3>
 
