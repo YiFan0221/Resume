@@ -198,9 +198,11 @@ I integrated Linebot with my backend so that my colleagues could check current s
 
 Subsequently, I added docker, CICD, and integrated ChatGPT functionality.
 
+Note: Integrated NLP services via API; no NLP model development involved.
+
 Technologies : python / linebot / OpenAI / docker / Nginx / Jenkins / AWS-EC2 (close now) / crawler / devops build / microservices
 
-Functions : get the newest PTT links / linebot / check current stock prices / ChatGPT
+Functions : get the newest PTT links / linebot / check current stock prices / ChatGPT API
 
 
 

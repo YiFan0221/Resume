@@ -366,11 +366,11 @@ SideProject
 
 疫情期間使用linebot串接後端爬蟲公同事查詢股價使用
 
-後續加入容器化、CICD、ChatGPT等功能
+後續加入容器化、CICD、ChatGPT等功能 （註：僅串接 NLP API 服務，未自行開發 NLP 模型）
 
 應用技術:python / linebot / OpenAI / docker / Nginx / Jenkins / (AWS目前關閉中)/爬蟲/devops建置/分散式設計
 
-實現:最新PTT連結 / linebot / 當前股價查詢功能 / ChatGPT(不定時開放功能)
+實現:最新PTT連結 / linebot / 當前股價查詢功能 / ChatGPT API(不定時開放功能)
 
 
 
