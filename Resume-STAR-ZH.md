@@ -14,7 +14,7 @@
 #### [1.2.2----- 惠特科技公司 - Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)  
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 #### [1.3.1----- 三商電腦公司 - 台北捷運萬大線車站軟韌體](#section-1-3-1-star)  
-#### [1.4.1----- 研華科技公司 - 邊緣設備智慧攝影機 - 使用者介面與串流串接 ](#section-1-4-1-star)   
+#### [1.4.1----- 研華科技公司 - Nvidia jetson platform - 串流與使用者介面](#section-1-4-1-star)   
 
 
 <br><br />
@@ -53,13 +53,13 @@
 <br><br />
 
 
-<h2 id="section-1-4-1-star">研華科技公司 - 邊緣設備智慧攝影機 - 使用者介面與串流串接 </h2>
+<h2 id="section-1-4-1-star">研華科技公司 - Nvidia jetson platform - 串流與使用者介面 </h2>
 
-研華科技公司 - 邊緣設備智慧攝影機 - 搭載可套用AI運算模型的工業相機
+研華科技公司 - Nvidia jetson platform - 串流與使用者介面
 
 工作職掌: WebSite SA & SD & FullStack
 
-Skill - Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium, E2ETesting, C#, OOP, SOLID, nginx, docker, docker-compose, jenkins, ffmpeg, rtsp, http-flv, https, openSSL, UML, Workflow, Sequence, WBS, OKR, AON, Milestone, swagger, openapi, postman, mongodb, redis 
+Skill - Linux, ARM, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium, E2ETesting, C#, OOP, SOLID, nginx, docker, docker-compose, jenkins, ffmpeg, rtsp, http-flv, https, openSSL, UML, Workflow, Sequence, WBS, OKR, AON, Milestone, swagger, openapi, postman, mongodb, redis 
 
 主要成果:
    - 網頁操作介面控制相機中，權限管控，影像設定，模型套用化，影像預覽功能

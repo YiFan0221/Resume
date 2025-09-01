@@ -10,15 +10,15 @@ Latticework, Inc  •  Jul 2023 - Jul 2024
 Sr. SW Engineer
 Advantech Co., Ltd.  •  Aug 2021 - Jul 2023
 
-1. Developed and maintained RESTful API using Python Flask, MongoDB, Redis, InfluxDB, etc.
-2. Collaborated with firmware to integrate SDK
-3. Create a Software Design Document using swagger
-4. Developed and maintained Web UI using React and Redux, etc.
-5. Collaborated with AE and PM teams using WireFrame and UIFlow, to rapidly build consensus
-6. Built and deployed Httpflv Stream Service.
-7. Built Container using Docker, Nginx, etc. Improves system efficiency and adaptability.
-8. Built and deployed a local Jenkins, setting up an Ingress Controller for internal service routing.
-9. Manage project , WBS, milestone, boosts overall efficiency by 750% 
+1. Developed RESTful API using Python Flask on nvidia jetson platform(ARM).
+2. Developed frontend using React and Redux, etc.
+3. Write Design Document using swagger.
+4. Collaborated with FW by DFG to integrate SDK
+5. Collaborated with AE/PM by wireframe
+6. Import live streamming service.(RTSP/RTMP/httpflv/ffmpeg/OpenCV/Nginx/)
+7. Import docker container replace systemd
+8. Import CI/CD (Jenkins) and E2ETesting (selenium and pytest)
+9. Manage project , WBS, milestone, boosts overall efficiency by (People 2->1, Time 2Week->2Days)
 
 
 SW Engineer

@@ -49,11 +49,11 @@ HIPOWER    •   Mar 2015 - Mar 2017
 
 ---
 
-<h2 id="section-1-4-1-star">ADVANTECH - Web-based Integrated Management Interface</h2>
+<h2 id="section-1-4-1-star">ADVANTECH - Nvidia jetson platform Web-based Interface</h2>
 
-ADVANTECH - Web-based Integrated Management Interface
+ADVANTECH - Nvidia jetson platform Web-based Interface
 - Situation: Inherit complex web application without prior documentation
-- Target: Developing back-end systems and integrating firmware layers
+- Target: Developing back-end systems and integrating firmware layers on Nvidia jetson
 - Actions:
    - Implemented comprehensive error handling mechanisms
    - Developed end-to-end automated testing framework

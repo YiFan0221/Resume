@@ -16,7 +16,7 @@ CV - STAR - 專案經驗 (詳細版)
 #### [1.2.2----- 惠特科技公司 - Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)  
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 #### [1.3.1----- 三商電腦公司 - 台北捷運萬大線車站軟韌體](#section-1-3-1-star)  
-#### [1.4.1----- 研華科技公司 - 邊緣設備智慧攝影機 - 使用者介面與串流串接 ](#section-1-4-1-star)  
+#### [1.4.1----- 研華科技公司 - 研華科技公司 - Nvidia jetson platform - 串流與使用者介面 ](#section-1-4-1-star)  
 
 <br><br />
 
@@ -29,7 +29,7 @@ CV - STAR - 專案經驗 (詳細版)
 - 內部技術文件撰寫
 
 研華科技公司(ADVANTECH)  •  Aug 2021 - Jul 2023
-- [邊緣設備智慧攝影機 - 使用者介面與串流串接 ](#section-1-4-1-star)  
+- [Nvidia jetson platform - 使用者介面與串流串接 ](#section-1-4-1-star)  
 
 三商電腦公司(MDS)  •  Dec 2020 - Aug 2021
 
@@ -59,25 +59,21 @@ CV - STAR - 專案經驗 (詳細版)
 <br><br />
 
 
-<h2 id="section-1-4-1-star">研華科技公司 - 邊緣設備智慧攝影機 - 使用者介面與串流串接 </h2>
+<h2 id="section-1-4-1-star">研華科技公司 - Nvidia jetson platform - 串流與使用者介面 </h2>
 
-研華科技公司 - 邊緣設備智慧攝影機 - 使用者介面與串流串接 
+研華科技公司 - Nvidia jetson platform - 串流與使用者介面
 
-Skill - Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium, E2ETesting, C#, OOP, SOLID, nginx, docker, docker-compose, jenkins, ffmpeg, rtsp, http-flv, https, openSSL, UML, Workflow, Sequence, WBS, OKR, AON, Milestone, swagger, openapi, postman, mongodb, redis 
+Skill - Linux, ARM, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, selenium, E2ETesting, C#, OOP, SOLID, nginx, docker, docker-compose, jenkins, ffmpeg, rtsp, http-flv, https, openSSL, UML, Workflow, Sequence, WBS, OKR, AON, Milestone, swagger, openapi, postman, mongodb, redis 
 
 團隊人數共4人:1網頁(我),2驅動;1韌體;,  負責範疇如下
 
 - 情況S：  
-  - 接手外包開發的相機GUI外，需將即時影像串流由韌體層拉至介面並且完成其他功能
-    - 僅熟悉後端，不曾接觸過前端相關技術，或正規SA/SD規劃。
-    - 缺乏規劃或文件，對外包無驗收標準，後期也無從追溯設計理念。  
-    - 原設計無ErrorHandle與Log機制，頻繁發生改A倒B，使底層錯誤直接暴露User眼前等且無從追查。  
+  - 接手外包開發的jetson平台GUI，需將即時影像串流由韌體層拉至使用者介面並且完成其他功能
 
 - 任務T：  
-  - 需要優化系統架構與設計，解決設計缺陷帶來的挑戰。  
-  - 制定工作分解並，與各層成員派工，同時確保各層成員進展穩定，並整合產出。  
+  - 優化系統架構與設計，解決設計缺陷帶來的挑戰。  
+  - 工作拆解，派工各層成員，確保進展穩定，整合產出。  
   - 需確認影像串流之間的技術可行性與效能
-
 
 - 行動A：  
   - 由設計維度進行規畫執行：      
@@ -103,7 +99,7 @@ Skill - Linux, git, Python, Flask, React, Redux, html, CSS, Javascript,Pytest, s
     - (ErrorHandle/FW Layer): 壓低了BUG發生頻率，平均降低故障排除時間60%
     - (E2E POM Framework): 降低測試腳本維護難度，迭代中，快速察覺問題與。
       - [git](https://github.com/YiFan0221/E2E-POM) https://github.com/YiFan0221/E2E-POM
-  - 無經驗下，如期提早完成外，並於規劃的緩衝時間內處理兩次設計變更，準時交付，期間成員無需加班，甚至期間善用空檔出遊。
+  - 提早完成，並於規劃的緩衝時間內處理兩次設計變更，準時交付。
 
 <br><br />
 [Back Top](#section-1-0-star)
