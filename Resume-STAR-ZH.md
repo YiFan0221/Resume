@@ -15,11 +15,16 @@
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 #### [1.3.1----- 三商電腦公司 - 台北捷運萬大線車站軟韌體](#section-1-3-1-star)  
 #### [1.4.1----- 研華科技公司 - Nvidia jetson platform - 串流與使用者介面](#section-1-4-1-star)   
-
+#### [1.6.1----- 惠普(HP)公司 - Keyboard identifier - Yolo AI Model](#section-1-6-1-star)
 
 <br><br />
 
 <h1 id="section-1-0-star">概述 <依公司分類> </h1>
+
+新加坡商惠普全球科技股份有限公司台灣分公司(HP)  •  Apri 2025 - Jul 2025
+
+- Develop UI using Avalonia
+- [Keyboard identifier - Yolo AI Model](#section-1-6-1-star) 
 
 美商普維股份有限公司(Latticework)  •  Jul 2023 - Jul 2024
 
@@ -52,6 +57,25 @@
 [Back Top](#top)
 <br><br />
 
+<h2 id="section-1-6-1-star">新加坡商惠普全球科技股份有限公司台灣分公司(HP) - Keyboard identifier - Yolo AI Model </h2>
+
+新加坡商惠普全球科技股份有限公司台灣分公司(HP) - Keyboard identifier - Yolo AI Model
+
+工作職掌: R&D
+
+Skill - Python, YOLOv11, Avalonia
+
+主要成果:
+   - 利用AI辨識一次識別出畫面上所有 Keys Info 降低每次介面修整所需時間
+
+特色:
+   - Trainning AI model to recognize hundreds of kinds objects at the same time on product 
+   - Apply coordinate system post-processing for functional implementation.
+   - Data Labeling / Preprocessing / Model Training / Post-processing
+
+
+[Back Top](#section-1-0-star)
+<br><br />
 
 <h2 id="section-1-4-1-star">研華科技公司 - Nvidia jetson platform - 串流與使用者介面 </h2>
 
@@ -85,7 +109,7 @@ Skill - C++, C#, Winform, FP, SOLID, Singleton
 
 主要成果:
  - 實現台北捷運規範的通訊電文編解譯函式庫，之後應用於該專案內所有設備彼此溝通的底層邏輯使用
- - 起初本為新人考核題目，但由於架構規劃得宜，可靠度與移植性受到認可，轉為重點專案並應用於各項設備中
+ - 專案起初作為架構可行性評估驗證（POC），但由於架構規劃得宜，可靠度與移植性受到認可，轉為重點專案並應用於各項設備中
 
 特色:
  - 首次採用 SOLID FP概念，並獲得成效
@@ -124,7 +148,7 @@ Skill - C++, C#, vision, 3A, Sharpness, Winform, Multi-Process, Multi-Thread, St
 
 主要成果:
    - 降低採購成本 65%
-   - 規劃教育訓練，兩週內快速上手，期間訓練過2員，留任率2員，成功率100%
+   - 規劃教育訓練，兩週內完成技術轉移與團隊培訓（Knowledge Transfer），期間訓練過2員，留任率2員，成功率100%
    - 確保供貨能力，由原廠端確保交期為一週內快速供貨
 
 特色:
@@ -144,18 +168,18 @@ Skill - C++, C#, vision, 3A, Sharpness, Winform, Multi-Process, Multi-Thread, St
 Skill - C++, C#, Winform, memory management, Multi-Process, Multi-Thread, State Pattern, Memory-mapped file, Win32 API, IPC
 
 主要成果:
-  - 主動提出解決方案並解決問題，僅費2週解決長達6個月的問題, 並解決生產線停線危機
+  - 主動研擬優化方案，於 2 週內迅速根治困擾產線長達 6 個月的系統瓶頸，成功化解停線危機。
 
 特色:
-  - 草船借箭, 請前案CCD原廠RD技術支援, 驗證後對當前原廠進行駁論
-  - 風險管理, 同步採藉經驗, 導入Multiprocessing 進行記憶體上分配管理, 快速解決問題
+  - 跨廠商技術協同驗證：引進第三方原廠 RD 技術資源進行交叉驗證，以客觀測試數據向原廠提出架構修訂建議，突破技術僵局。
+  - 記憶體架構重構與風險控制：導入多程序處理（Multiprocessing）與 IPC 記憶體隔離管理，顯著提升系統穩定度與資源調度效率。
 
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h2 id="section-1-1-2-star">綠節能智控公司 - 政府標案 - 影像辨識車輛逆行</h2>
+<h2 id="section-1-1-2-star">綠捷能智控公司 - 政府標案 - 影像辨識車輛逆行</h2>
 
-綠節能智控公司 - 政府標案 - 影像辨識車輛逆行
+綠捷能智控公司 - 政府標案 - 影像辨識車輛逆行
 
 工作職掌: SW/FW RD 
 
@@ -184,7 +208,7 @@ Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Prod
 Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC, RWD, Multi-Image Processing
 
 主要成果:
-  - 主從架構與IPC，實現出錯快速復歸提升穩定性與容錯度，滿足需置於戶外24小時不間斷運作需求
+  - 主從架構與IPC，提高系統之容錯機制與自動自我修復能力（Fault Tolerance & Auto-Recovery，滿足需置於戶外24小時不間斷運作需求
   - 串流轉發服務有效降低攝影機負載
 
 特色:

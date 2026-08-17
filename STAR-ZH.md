@@ -59,6 +59,21 @@ CV - STAR - 專案經驗 (詳細版)
 <br><br />
 
 
+<h2 id="section-1-6-1-star">HP - Keyboard identifier - Yolo AI Model </h2>
+
+HP - Keyboard identifier - Yolo AI Model
+Skill - Avalonia, python, Yolov11
+- S： 開發前端時美新增一種鍵盤layout就需手動計算像素座標耗費許多時間
+- T： 利用AI辨識批次化處理，降低每次介面修整所需時間
+- A： 
+  - SDD 制定規格流程，使用AI逐步完成目標
+  - Data Labeling / Preprocessing / Model Training / Post-processing
+  - 使辨識結果產生資料表再轉換成原始碼嵌入原始碼
+  - 提案proposal導入
+- R：
+  - 省去每次規格變動所需時間
+
+
 <h2 id="section-1-4-1-star">研華科技公司 - Nvidia jetson platform - 串流與使用者介面 </h2>
 
 研華科技公司 - Nvidia jetson platform - 串流與使用者介面
@@ -67,15 +82,15 @@ Skill - Linux, ARM, git, Python, Flask, React, Redux, html, CSS, Javascript,Pyte
 
 團隊人數共4人:1網頁(我),2驅動;1韌體;,  負責範疇如下
 
-- 情況S：  
+- S：  
   - 接手外包開發的jetson平台GUI，需將即時影像串流由韌體層拉至使用者介面並且完成其他功能
 
-- 任務T：  
+- T：  
   - 優化系統架構與設計，解決設計缺陷帶來的挑戰。  
   - 工作拆解，派工各層成員，確保進展穩定，整合產出。  
   - 需確認影像串流之間的技術可行性與效能
 
-- 行動A：  
+- A：  
   - 由設計維度進行規畫執行：      
     - (WBS / OKR / ANO) : 劃分團隊分工WBS，OKR遠中近目標，執行順序AON，里程碑。  
     - (UML /Workflow/Sequence) : 將模糊需求轉化為具體設計。  
@@ -89,7 +104,7 @@ Skill - Linux, ARM, git, Python, Flask, React, Redux, html, CSS, Javascript,Pyte
     - (VideoStream)     : 自家IPCam拉RTSP 用FFmpeg HttpFlv 建立直播架構，用VLC POC完成後提案。
     - (E2E Framework)   : Pytest & selenium 開發 POM 測試腳本框架
 
-- 結果R：  
+- R：  
   - 各自行動(Action)成效如下:
     - (WBS / OKR / ANO) : 腦內風暴，規劃排程，有利於成員理解當前目標與後續規劃
     - (UML/Wireframe ..etx): 開發前，對焦需求，避免成品與需求脫鉤
@@ -126,7 +141,7 @@ Skill - C++, C#, Winform, FP, SOLID, Singleton
      - 依SOLID:DIP，透過高階函式或參數，消除對實現的依賴
    - 因時程緊迫，分派範疇後穩定執行，每天與member進行一次sync
 - R：  
-   - 起初本為新人考核題目，但由於架構規劃得宜，可靠度與移植性受到認可，轉為重點專案並應用於各項設備中
+   - 專案起初作為架構可行性評估驗證（POC），但由於架構規劃得宜，可靠度與移植性受到認可，轉為重點專案並應用於各項設備中
 
 [Back Top](#section-1-0-star)
 <br><br />
@@ -183,7 +198,7 @@ Skill - C++, C#, vision, 3A, Sharpness, Winform, Multi-Process, Multi-Thread, St
      - 建立國內倉庫快速供應
      - 少量，從下單至國內出貨到收貨可優先供貨並在一週內完成
      - 大量，從下單至海外出貨、清關、收件時間不超過兩週
-   - 規劃教育訓練，兩週內快速上手，期間訓練過2員，留任率2員，成功率100%
+   - 規劃教育訓練，兩週內完成技術轉移與團隊培訓（Knowledge Transfer），期間訓練過2員，留任率2員，成功率100%
 
 <br><br />
 [Back Top](#section-1-0-star)
@@ -255,7 +270,7 @@ Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Prod
   - 主從架構，採Multi-Process緩解函式庫導致記憶體不足問題，搭配Win32 API與Memory-mapped file IPC進行控制
 - R：  
    - 新增符合規範之功能
-   - 主從架構與IPC，實現出錯快速復歸提升穩定性與容錯度，滿足需置於戶外24小時不間斷運作需求
+   - 主從架構與IPC，提高系統之容錯機制與自動自我修復能力（Fault Tolerance & Auto-Recovery）提升穩定性與容錯度，滿足需置於戶外24小時不間斷運作需求
    - 開發項目皆可沿用至下個專案中
 
 <br><br />
