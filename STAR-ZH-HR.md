@@ -8,10 +8,10 @@ CV - STAR - 專案經驗 (人資版)
 #### [1.0------- 概述<依公司>](#section-1-0-star)
 #### [1.0.0----- 出社會前 - 溫濕度感測器2015.9.24網路_RTC_遙控器_繼電器](#section-1-0-0-star)  
 #### [1.0.1----- SideProject](#section-1-0-1-star)  
-#### [1.1.1----- 綠節能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
-#### [1.1.2----- 綠節能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
-#### [1.1.3----- 綠節能智控公司 - 人流偵測管理系統(PFD](#section-1-1-3-star)
-#### [1.1.4----- 綠節能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點](#section-1-1-4-star)
+#### [1.1.1----- 綠捷能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
+#### [1.1.2----- 綠捷能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
+#### [1.1.3----- 綠捷能智控公司 - 人流偵測管理系統(PFD](#section-1-1-3-star)
+#### [1.1.4----- 綠捷能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點](#section-1-1-4-star)
 #### [1.2.1----- 惠特科技公司 - Probe - Motion 3-Axis system 更換案](#section-1-2-1-star)  
 #### [1.2.2----- 惠特科技公司 - Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)  
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
@@ -44,7 +44,7 @@ CV - STAR - 專案經驗 (人資版)
 - [Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 - 新人訓練
 
-綠節能智控公司(HIPOWER) Mar 2015 - Mar 2017
+綠捷能智控公司(HIPOWER) Mar 2015 - Mar 2017
 
 - [政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
 - [蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
@@ -58,6 +58,21 @@ CV - STAR - 專案經驗 (人資版)
 <br><br />
 [Back Top](#top)
 <br><br />
+
+<h2 id="section-1-6-1-star">HP - Keyboard identifier - Yolo AI Model </h2>
+
+HP - Keyboard identifier - Yolo AI Model
+
+- S： 開發前端時美新增一種鍵盤layout就需手動計算像素座標耗費許多時間
+- T： 利用AI辨識批次化處理，降低每次介面修整所需時間
+- A： 
+  - SDD 制定規格流程，使用AI逐步完成目標
+  - Data Labeling / Preprocessing / Model Training / Post-processing
+  - 使辨識結果產生資料表再轉換成原始碼嵌入原始碼
+  - 提案proposal導入
+- R：
+  - 省去每次規格變動所需時間
+
 
 <h3 id="section-1-4-1-star">研華科技公司 - Nvidia jetson platform - 串流與使用者介面</h3>
 
@@ -172,9 +187,9 @@ Skill - C++, C#, Winform, memory management, Multi-Process, Multi-Thread, State 
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h3 id="section-1-1-2-star">綠節能智控公司 - 車輛影像辨識逆行偵測專案</h3>
+<h3 id="section-1-1-2-star">綠捷能智控公司 - 車輛影像辨識逆行偵測專案</h3>
 
-綠節能智控公司 - 車輛影像辨識逆行偵測專案
+綠捷能智控公司 - 車輛影像辨識逆行偵測專案
 - S：需要整合影像辨識技術與地面線圈來檢測高速公路交流道的車輛逆行行為，並存在舊廠商配合度的磨合問題。  
 - T：開發影像偵測設備，實現軟硬體功能(手提測試機、watchdog、GPIO、電壓與網路狀態偵測等功能)，結合線圈機交叉比對後的資訊，遵循甲方協定回傳高公局。  
 - A：  
@@ -190,9 +205,9 @@ Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Prod
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h3 id="section-1-1-1-star">綠節能智控公司 - 蘇州高速公路 - 休息站停車場車輛計數</h3>
+<h3 id="section-1-1-1-star">綠捷能智控公司 - 蘇州高速公路 - 休息站停車場車輛計數</h3>
 
-綠節能智控公司 - 蘇州高速公路 - 休息站停車場車輛計數
+綠捷能智控公司 - 蘇州高速公路 - 休息站停車場車輛計數
 - S：蘇州高速公路休息站停車場，由於高交通流量，導致車輛進入休息站後才得知有無空位。  
 - T：與團隊共同制定解決方案，開發車輛計數程式，二次開發LED看板，整合PTZ Cam，以及安控室的CCTV電視牆。  
 - A：  
@@ -210,9 +225,9 @@ Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Prod
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h2 id="section-1-1-3-star">綠節能智控公司 - 人流偵測管理系統(PFD) </h2>
+<h2 id="section-1-1-3-star">綠捷能智控公司 - 人流偵測管理系統(PFD) </h2>
 
-綠節能智控公司 - 人流偵測管理系統(PFD)
+綠捷能智控公司 - 人流偵測管理系統(PFD)
 
 工作職掌: SW/FW RD
 
@@ -233,9 +248,9 @@ Skill - C++, Winform, FFmpeg, Live555, RTSP, MySQL, RWD, Multi-Image Processing
 <br><br />
 
 
-<h2 id="section-1-1-4-star"> 綠節能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點 </h2>
+<h2 id="section-1-1-4-star"> 綠捷能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點 </h2>
 
-綠節能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點
+綠捷能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點
 
 工作職掌: SW/FW RD
 

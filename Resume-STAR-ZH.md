@@ -7,9 +7,9 @@
 # 大綱 <a name="top"></a>
 #### [1.0------- 概述<依公司>](#section-1-0-star)
 #### [1.0.1----- SideProject](#section-1-0-1-star)  
-#### [1.1.1----- 綠節能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
-#### [1.1.2----- 綠節能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
-#### [1.1.3----- 綠節能智控公司 - 人流偵測管理系統(PFD)](#section-1-1-3-star)
+#### [1.1.1----- 綠捷能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
+#### [1.1.2----- 綠捷能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
+#### [1.1.3----- 綠捷能智控公司 - 人流偵測管理系統(PFD)](#section-1-1-3-star)
 #### [1.2.1----- 惠特科技公司 - Probe - Motion 3-Axis system 升級案](#section-1-2-1-star)  
 #### [1.2.2----- 惠特科技公司 - Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)  
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
@@ -46,7 +46,7 @@
 - [Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 - 新人訓練
 
-綠節能智控公司(HIPOWER) Mar 2015 - Mar 2017
+綠捷能智控公司(HIPOWER) Mar 2015 - Mar 2017
 
 - [政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
   - 刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ]
@@ -199,9 +199,9 @@ Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Prod
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h2 id="section-1-1-1-star">綠節能智控公司 - 蘇州高速公路 - 休息站停車場車輛計數 </h2>
+<h2 id="section-1-1-1-star">綠捷能智控公司 - 蘇州高速公路 - 休息站停車場車輛計數 </h2>
 
-綠節能智控公司 - 蘇州休息站 - 車輛容量管理
+綠捷能智控公司 - 蘇州休息站 - 車輛容量管理
 
 工作職掌: SW/FW RD 
 
@@ -218,9 +218,9 @@ Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Prod
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h2 id="section-1-1-3-star">綠節能智控公司 - 人流偵測管理系統(PFD) </h2>
+<h2 id="section-1-1-3-star">綠捷能智控公司 - 人流偵測管理系統(PFD) </h2>
 
-綠節能智控公司 - 人流偵測管理系統(PFD)
+綠捷能智控公司 - 人流偵測管理系統(PFD)
 
 工作職掌: SW/FW RD
 

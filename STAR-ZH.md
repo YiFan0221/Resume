@@ -8,10 +8,10 @@ CV - STAR - 專案經驗 (詳細版)
 #### [1.0------- 概述<依公司>](#section-1-0-star)
 #### [1.0.0----- 出社會前 - 溫濕度感測器2015.9.24網路_RTC_遙控器_繼電器](#section-1-0-0-star)  
 #### [1.0.1----- SideProject](#section-1-0-1-star)  
-#### [1.1.1----- 綠節能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
-#### [1.1.2----- 綠節能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
-#### [1.1.3----- 綠節能智控公司 - 人流偵測管理系統(PFD](#section-1-1-3-star)
-#### [1.1.4----- 綠節能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點](#section-1-1-4-star)
+#### [1.1.1----- 綠捷能智控公司 - 蘇州休息站 - 車輛容量管理](#section-1-1-1-star)
+#### [1.1.2----- 綠捷能智控公司 - 政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
+#### [1.1.3----- 綠捷能智控公司 - 人流偵測管理系統(PFD](#section-1-1-3-star)
+#### [1.1.4----- 綠捷能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點](#section-1-1-4-star)
 #### [1.2.1----- 惠特科技公司 - Probe - Motion 3-Axis system 升級案](#section-1-2-1-star)  
 #### [1.2.2----- 惠特科技公司 - Probe - Vision CCD 工業相機選品導入](#section-1-2-2-star)  
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
@@ -42,7 +42,7 @@ CV - STAR - 專案經驗 (詳細版)
 - [Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 - 新人訓練
 
-綠節能智控公司(HIPOWER) Mar 2015 - Mar 2017
+綠捷能智控公司(HIPOWER) Mar 2015 - Mar 2017
 
 - [政府標案 - 影像辨識車輛逆行](#section-1-1-2-star)
   - 刊登頁面:[國道視窗 - 國道5號蘇澳交流道出口增設逆行車輛偵測 ]
@@ -233,9 +233,9 @@ Skill - C++, C#, Winform, memory management, Multi-Process, Multi-Thread, State 
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h2 id="section-1-1-2-star">綠節能智控公司 - 政府標案 - 影像辨識車輛逆行</h2>
+<h2 id="section-1-1-2-star">綠捷能智控公司 - 政府標案 - 影像辨識車輛逆行</h2>
 
-綠節能智控公司 - 政府標案 - 影像辨識車輛逆行
+綠捷能智控公司 - 政府標案 - 影像辨識車輛逆行
 
 Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC
 
@@ -277,9 +277,9 @@ Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Prod
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h2 id="section-1-1-1-star">綠節能智控公司 - 蘇州休息站 - 車輛容量管理</h2>
+<h2 id="section-1-1-1-star">綠捷能智控公司 - 蘇州休息站 - 車輛容量管理</h2>
 
-綠節能智控公司 - 蘇州休息站 - 車輛容量管理
+綠捷能智控公司 - 蘇州休息站 - 車輛容量管理
 
 Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Producer-Consumer Pattern, Message Queue, Memory-mapped file, Win32 API, IPC, NSIS, Serial port(COM), I2C, UART, SPI, NetIO, FFmpeg, Live555, RTSP, MySQL, Vision, LRC, RWD, Multi-Image Processing
 
@@ -302,9 +302,9 @@ Skill - C++, Embedded Windows, Winform, Linux, Multi-Process, Multi-Thread, Prod
 [Back Top](#section-1-0-star)
 <br><br />
 
-<h2 id="section-1-1-3-star">綠節能智控公司 - 人流偵測管理系統(PFD) </h2>
+<h2 id="section-1-1-3-star">綠捷能智控公司 - 人流偵測管理系統(PFD) </h2>
 
-綠節能智控公司 - 人流偵測管理系統(PFD)
+綠捷能智控公司 - 人流偵測管理系統(PFD)
 
 工作職掌: SW/FW RD
 
@@ -325,9 +325,9 @@ Skill - C++, Winform, FFmpeg, Live555, RTSP, MySQL, RWD, Multi-Image Processing
 <br><br />
 
 
-<h2 id="section-1-1-4-star"> 綠節能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點 </h2>
+<h2 id="section-1-1-4-star"> 綠捷能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點 </h2>
 
-綠節能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點
+綠捷能智控公司 - 人流偵測管理系統(PFD) - 嵌入式中繼節點
 
 工作職掌: SW/FW RD
 
