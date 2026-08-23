@@ -13,11 +13,16 @@ Project Experiences
 #### [1.2.3----- Fittech - System Architecture Performance Optimization](#section-1-2-3-star)
 #### [1.3.1----- MDS - Metro Communication Protocol Library](#section-1-3-1-star)  
 #### [1.4.1----- ADVANTECH - Web-based Integrated Management Interface](#section-1-4-1-star)  
+#### [1.6.1----- 惠普(HP)公司 - Yolo AI Model - 產品AOI](#section-1-6-1-star)
 
 <br><br />
 <br><br />
 
 <h1 id="section-1-0-star">Overview</h1>
+
+HP(Project-base)  •  Apri 2025 - Jul 2025
+- Develop UI using Avalonia
+- [Keyboard identifier - Yolo AI Model](#section-1-6-1-star) 
 
 Latticework, Inc  •  Jul 2023 - Jul 2024
 - Product Backend Optimization and Quality Assurance
@@ -48,6 +53,20 @@ HIPOWER    •   Mar 2015 - Mar 2017
 
 
 ---
+
+<h2 id="section-1-6-1-star">HP - Keyboard identifier - Yolo AI Model </h2>
+
+HP - Keyboard identifier - Yolo AI Model
+
+- Situation: Manual pixel coordinate calculation was required whenever a new keyboard layout was added, consuming excessive time during UI development.
+- Target: Automate coordinate extraction using AI to accelerate interface adjustment and reduce repetitive work.
+- Actions:
+   - Defined SDD workflow and specifications for AI-driven automation.
+   - Conducted data labeling, preprocessing, model training, and post-processing using YOLO.
+   - Generated mapping tables and auto-converted them into source code for embedding.
+   - Composed proposal and demonstrated proof-of-concept to the team.
+- Results: Reduced layout adjustment time drastically by eliminating manual coordinate measurement and achieved consistent data accuracy across layout variants.
+
 
 <h2 id="section-1-4-1-star">ADVANTECH - Nvidia jetson platform Web-based Interface</h2>
 
@@ -102,8 +121,7 @@ Fittech - Precision Motion Control System Upgrade
    - Resolved mechanical and physical system interactions
    - Collaborated directly with international manufacturer engineers to develop and apply a custom SDK
 - Results:
-   - Achieved 0.1-micron control precision
-   - Reduced operational time by 30%
+   - Tuned the system to achieve 0.1-micron control precision and reduced 30% motion time.
    - Significantly improved system performance and reliability
 <br><br />
 [Back Top](#section-1-0-star)
@@ -119,8 +137,9 @@ Fittech - Imaging Sensor (CCD) Optimization Project
    - Estimated procurement quantities with distributors to enhance collaboration
    - Established safe inventory levels and delivery timelines with manufacturers to reduce company inventory cost pressures
 - Results:
+   - Implemented modular architecture, enabling new engineers to adapt to the codebase within two weeks.
    - Successfully introduced new brand, reducing costs by at least 65% and shortening order-to-delivery time to 2 weeks
-   - New employees quickly adapted to new code within two weeks
+
 
 <br><br />
 [Back Top](#section-1-0-star)

@@ -15,13 +15,13 @@
 #### [1.2.3----- 惠特科技公司 - Probe - Source Meter 主從架構優化案](#section-1-2-3-star)
 #### [1.3.1----- 三商電腦公司 - 台北捷運萬大線車站軟韌體](#section-1-3-1-star)  
 #### [1.4.1----- 研華科技公司 - Nvidia jetson platform - 串流與使用者介面](#section-1-4-1-star)   
-#### [1.6.1----- 惠普(HP)公司 - Keyboard identifier - Yolo AI Model](#section-1-6-1-star)
+#### [1.6.1----- 惠普(HP)專案 - Keyboard identifier - Yolo AI Model](#section-1-6-1-star)
 
 <br><br />
 
 <h1 id="section-1-0-star">概述 <依公司分類> </h1>
 
-新加坡商惠普全球科技股份有限公司台灣分公司(HP)  •  Apri 2025 - Jul 2025
+新加坡商惠普全球科技股份有限公司台灣分公司(HP)  •  Apri 2025 - Jul 2025 (Project Contract)
 
 - Develop UI using Avalonia
 - [Keyboard identifier - Yolo AI Model](#section-1-6-1-star) 
